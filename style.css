@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	margin: 140px;
+}
+
+section {
+	margin: 40px;
+}
+
+h2 {
+	text-align: left;
+}
+
+label {
+	border: 2px solid red;
+}
+
+.radio-button {
+	opacity: 0;
+	width: 49%;
+}
+
+.radio-button-label {
+	display: inline-block;
+	position: relative;
+	padding-left: 30px; 
+	cursor: pointer;
+
+}
+
+/*.radio-button input[type="radio"] {
+	position: absolute;
+	cursor: pointer;
+}*/
+
+/*.radio-button::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 20px; /* Размер нажимаемой области */
+	/*height: 20px; /* Размер нажимаемой области */
+	/*border: 2px solid #000; /* Стиль рамки */
+	/*background-color: #fff; /* Цвет фона */
+/*}*/
+
+.questions {
+	border: 2px solid blue;
+	display: flex;
+	width: 100%;
+}
