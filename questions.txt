@@ -1,0 +1,54 @@
+
+
+CLI (Command Line Interface):
+
+Question: What command is used to list all files and directories in the current directory in the command line?
+
+A) ls
+B) cd
+C) mkdir
+D) cp
+
+GitHub:
+
+Question: Which Git command is used to download a remote repository to your local machine?
+
+A) git push
+B) git pull
+C) git commit
+D) git clone
+
+HTML (Hypertext Markup Language):
+
+Question: What HTML tag is used to create a hyperlink?
+
+A) <link>
+B) <a>
+C) <h1>
+D) <p>
+
+CSS (Cascading Style Sheets):
+
+Question: Which CSS property is used to change the color of text?
+
+A) font-family
+B) text-align
+C) background-color
+D) color
+
+JavaScript:
+
+Question: Which keyword is used to declare a variable in JavaScript?
+
+A) func
+B) class
+C) var
+D) if
+
+Correct answers:
+
+CLI: A) ls
+GitHub: D) git clone
+HTML: B) <a>
+CSS: D) color
+JavaScript: C) var
